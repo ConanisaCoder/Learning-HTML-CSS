@@ -1,0 +1,32 @@
+p{
+    color: grey;
+    font-family: Arial;
+    font-weight: lighter;
+    margin: 0px;
+}
+.Email{
+    margin-top: 10px;
+}
+.input{
+    margin-top: 6px;
+    width: 370px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 8px;
+    margin-bottom: 15px;
+}
+.T-O-S{
+    margin-bottom: 15px;
+}
+.Button{
+    color: white;
+    border: none;
+    background-color: RGB(10, 102, 194);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 140px;
+    padding-right: 140px;
+    border-radius: 30px;
+    font-size: large;
+}

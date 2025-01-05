@@ -1,0 +1,9 @@
+.Text-Box{
+    border-width: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: gainsboro;
+    padding: 15px;
+    font-size: large;
+    font-family: JetBrains Mono;
+}
