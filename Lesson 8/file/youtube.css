@@ -1,0 +1,11 @@
+.thumbnail-1{
+    width: 300px;
+    display: block;
+    margin-bottom: 10px;
+}
+.text-box{
+    font-family: Arial;
+    font-size: 19px; 
+    margin-bottom: 10px;
+    display: block; 
+}

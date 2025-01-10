@@ -1,0 +1,32 @@
+html{
+    font-family: Arial;
+    font-size: 28px;
+}
+input{
+    display: block;
+    background-color: gainsboro;
+    color: gray;
+    border: none;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 300px;
+}
+
+.Request-button{
+    color: white;
+    border: none;
+    background-color: black;
+    padding: 10px;
+}
+.Request-button{
+    color: white;
+    border: none;
+    background-color: black;
+    padding: 10px;
+}
+.Schedule-button{
+    color: black;
+    border: none;
+    background-color: gainsboro;
+    padding: 10px;
+}
