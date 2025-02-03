@@ -1,0 +1,23 @@
+.thumbnail-1{
+    width: 300px;
+    display: block;
+    
+}
+.text-box{
+    font-family: Arial;
+    font-size: 19px; 
+    display: block;  
+    margin-bottom: 15px;
+}
+.video-preview{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-right: 15px;
+}
+.video-preview2{
+    margin-left: 15px;
+    display:  inline-block;
+    width: 300px;
+    vertical-align:top;
+}
